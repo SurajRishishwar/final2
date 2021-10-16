@@ -167,7 +167,7 @@ marquee a:hover {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    background-color: cyan;
+    background-color: #bfc3c1;
 }
 .boxx .boxximages .imgforbox{
     width: 400px;
