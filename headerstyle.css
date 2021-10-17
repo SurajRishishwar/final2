@@ -367,7 +367,7 @@ nav ul .search-icon .icon span{
   font-size: 15px;
   margin-left: 40px;
 }
-@media all and (max-width: 920px) {
+@media all and (max-width: 1191px) {
 #nav2 ul{
 margin-right: 0px;
 float: left;
